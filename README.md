@@ -1,16 +1,12 @@
-  "𝐓𝐡𝐞𝐧... 𝐩𝐫𝐨𝐯𝐞 𝐢𝐭 𝐭𝐨 𝐦𝐞! 𝐏𝐫𝐨𝐯𝐞 𝐭𝐨 𝐦𝐞 𝐭𝐡𝐚𝐭 𝐲𝐨𝐮'𝐫𝐞 𝐝𝐞𝐭𝐞𝐫𝐦𝐢𝐧𝐞𝐝! 𝐔𝐜𝐜𝐢𝐝𝐢𝐦𝐢! 𝐒𝐡𝐨𝐰 𝐦𝐞 𝐭𝐡𝐚𝐭 𝐩𝐫𝐢𝐝𝐞! 𝐈𝐟 𝐲𝐨𝐮'𝐫𝐞 𝐧𝐨𝐭 𝐜𝐨𝐦𝐦𝐢𝐭𝐭𝐞𝐝 𝐞𝐧𝐨𝐮𝐠𝐡, 𝐭𝐡𝐞𝐧 𝐈 𝐬𝐡𝐚𝐥𝐥                                                 𝐤𝐢𝐥𝐥 𝐲𝐨𝐮 𝐰𝐡𝐞𝐫𝐞 𝐲𝐨𝐮 𝐬𝐭𝐚𝐧𝐝!"
-![](https://github.com/HawklineMiami/HawklineMiami/blob/e05847449e84314ec781395f5a9d0b71d5b4da28/IMG_5847.png)
-<!--
-**HawklineMiami/HawklineMiami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## "𝐓𝐡𝐞𝐧... 𝐩𝐫𝐨𝐯𝐞 𝐢𝐭 𝐭𝐨 𝐦𝐞! 𝐏𝐫𝐨𝐯𝐞 𝐭𝐨 𝐦𝐞 𝐭𝐡𝐚𝐭 𝐲𝐨𝐮'𝐫𝐞 𝐝𝐞𝐭𝐞𝐫𝐦𝐢𝐧𝐞𝐝! 𝐔𝐜𝐜𝐢𝐝𝐢𝐦𝐢! 𝐒𝐡𝐨𝐰 𝐦𝐞 𝐭𝐡𝐚𝐭 𝐩𝐫𝐢𝐝𝐞! 𝐈𝐟 𝐲𝐨𝐮'𝐫𝐞 𝐧𝐨𝐭 𝐜𝐨𝐦𝐦𝐢𝐭𝐭𝐞𝐝 𝐞𝐧𝐨𝐮𝐠𝐡, 𝐭𝐡𝐞𝐧 𝐈 𝐬𝐡𝐚𝐥𝐥     𝐤𝐢𝐥𝐥 𝐲𝐨𝐮 𝐰𝐡𝐞𝐫𝐞 𝐲𝐨𝐮 𝐬𝐭𝐚𝐧𝐝!"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Everything in this block is still Markdown.**
+
+</div>
+
+ ![](https://github.com/HawklineMiami/HawklineMiami/blob/e05847449e84314ec781395f5a9d0b71d5b4da28/IMG_5847.png)
+
+
+<span code style=“color;blue”>hi</code>
