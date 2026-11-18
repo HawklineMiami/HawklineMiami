@@ -1,9 +1,13 @@
-<div align="center">
 
+
+<div align="center">
+ 
+![](https://github.com/HawklineMiami/HawklineMiami/blob/05193345dda13fc3fc9516552329958765b47598/IMG_5839.png)
+ 
 # "𝐓𝐡𝐞𝐧... 𝐩𝐫𝐨𝐯𝐞 𝐢𝐭 𝐭𝐨 𝐦𝐞! 𝐏𝐫𝐨𝐯𝐞 𝐭𝐨 𝐦𝐞 𝐭𝐡𝐚𝐭 𝐲𝐨𝐮'𝐫𝐞 𝐝𝐞𝐭𝐞𝐫𝐦𝐢𝐧𝐞𝐝! 𝐔𝐜𝐜𝐢𝐝𝐢𝐦𝐢! 𝐒𝐡𝐨𝐰 𝐦𝐞 𝐭𝐡𝐚𝐭 𝐩𝐫𝐢𝐝𝐞! 𝐈𝐟 𝐲𝐨𝐮'𝐫𝐞 𝐧𝐨𝐭 𝐜𝐨𝐦𝐦𝐢𝐭𝐭𝐞𝐝 𝐞𝐧𝐨𝐮𝐠𝐡, 𝐭𝐡𝐞𝐧 𝐈 𝐬𝐡𝐚𝐥𝐥     𝐤𝐢𝐥𝐥 𝐲𝐨𝐮 𝐰𝐡𝐞𝐫𝐞 𝐲𝐨𝐮 𝐬𝐭𝐚𝐧𝐝!"
 
-![](https://github.com/HawklineMiami/HawklineMiami/blob/05193345dda13fc3fc9516552329958765b47598/IMG_5839.png)
 
+![](https://github.com/HawklineMiami/HawklineMiami/blob/7095d662325f5ef33866d92568051145a9303b5c/IMG_5854.png)
 
 ***<ins>ℓσ††ιє</ins>***
 
